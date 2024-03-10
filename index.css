@@ -1,0 +1,33 @@
+.header{
+    height: 60px;
+    background-color: yellow;
+}
+.title{
+    position:absolute;
+    top: 3%;
+    left: 10%;
+    font-size: 30px;
+    font-family: cursive;
+
+}
+.backgroundimage{
+    width: 100%;
+    height:600px;
+}
+.footer{
+    height: 60px;
+    
+}
+.footer-heading{
+    font-size: 25px;
+    font-family: cursive;
+    color: black;
+    text-align: center;
+}
+.button{
+    position: relative;
+    left: 45%;
+    background-color: orangered;
+    width: 100px;
+    height: 40px;
+}
